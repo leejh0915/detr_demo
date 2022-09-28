@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4f148022-0b26-408d-b87b-4f4a30a2d2a2" name="detr-demo">
+        <fileTransfer accessType="SFTP" host="39.123.34.139" port="29000" sshConfigId="79fb7f70-4313-4a14-b660-1c85fe6c13b6" sshConfig="root@39.123.34.139:29000 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
